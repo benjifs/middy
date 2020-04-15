@@ -65,7 +65,7 @@
     "typings-tester": "^0.3.2"
   },
   "dependencies": {
-    "@types/aws-lambda": "^8.10.45",
+    "@types/aws-lambda": "^8.10.49",
     "@types/http-errors": "^1.6.3",
     "ajv": "^6.9.1",
     "ajv-i18n": "^3.4.0",
